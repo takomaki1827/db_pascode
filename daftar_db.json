@@ -1,3 +1,9 @@
 {
-  "users": []
+  "users": [
+    {
+      "id": 1750590528242,
+      "username": "tes",
+      "password": "$2a$10$fJ2tjg5G2JFq313GQs3CxeYZJuj.yOqCwgC9W8fsM8rjkHTxiP/T."
+    }
+  ]
 }
