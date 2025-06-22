@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": 1750592311922,
+      "firstName": "asep",
+      "lastName": "sigma",
+      "username": "asep",
+      "email": "nama@gmail.com",
+      "password": "$2a$10$exNEREJr.YaEZFNCrrx53ug0tlV39dYLZBbEKqYIGf/RrEzwoeCqS",
+      "createdAt": "2025-06-22T11:38:31.922Z"
+    }
+  ]
+}
