@@ -17,7 +17,7 @@
       "email": "nama@gmail.com",
       "password": "$2a$10$IPHfhMIAVcTNXPLItsdEC.lbkX5oEM/QMcMAhgcmrVMaM0GJhpc9m",
       "createdAt": "2025-06-23T10:25:21.133Z",
-      "isSuspended": true
+      "isSuspended": false
     }
   ]
 }
