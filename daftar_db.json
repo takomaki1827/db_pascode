@@ -8,16 +8,6 @@
       "email": "ryomakanemi4@gmail.com",
       "password": "$2a$10$G2EVcmFKAiCfKOanQEJgzuwNid6kaVDVt882TyxsA/QsrdatW81ie",
       "createdAt": "2025-06-23T04:48:22.640Z"
-    },
-    {
-      "id": 1750673577536,
-      "firstName": "sigma",
-      "lastName": "sigma",
-      "username": "sigma",
-      "email": "nama@gmail.com",
-      "password": "$2a$10$7iLcMDUuhx9G4IStOynq1uG9zG2P7iABJ/fvVy2vcgerfiHOd1huG",
-      "createdAt": "2025-06-23T10:12:57.536Z",
-      "isSuspended": false
     }
   ]
 }
