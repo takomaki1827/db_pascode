@@ -1,1 +1,13 @@
-[]
+{
+  "users": [
+    {
+      "id": 1750654102640,
+      "firstName": "ren",
+      "lastName": "collins",
+      "username": "ren",
+      "email": "ryomakanemi4@gmail.com",
+      "password": "$2a$10$G2EVcmFKAiCfKOanQEJgzuwNid6kaVDVt882TyxsA/QsrdatW81ie",
+      "createdAt": "2025-06-23T04:48:22.640Z"
+    }
+  ]
+}
