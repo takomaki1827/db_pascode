@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "f9b810b4-d603-46e7-8969-5ed52dfbcef4",
+    "email": "mikuofc70@gmail.com",
+    "otp": "236227",
+    "expiresAt": 1751007408883,
+    "userData": {
+      "id": "813c58a5-38b6-4b09-89d0-a6b450723314",
+      "firstName": "salomon",
+      "lastName": "store",
+      "username": "salomon",
+      "email": "mikuofc70@gmail.com",
+      "password": "$2a$10$iS1dSYGwc68SYHjLcWW4Zuxh2AOg5PJ5qBT.3m1de3g1fO/aL9LGK",
+      "verified": false,
+      "createdAt": "2025-06-27T06:46:48.883Z"
+    }
+  }
+]
