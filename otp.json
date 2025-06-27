@@ -1,18 +1,1 @@
-[
-  {
-    "id": "b1177e71-6913-474f-80d6-75b09b4322a2",
-    "email": "salomon00000001@gmail.com",
-    "otp": "870018",
-    "expiresAt": 1751029545953,
-    "userData": {
-      "id": "73955338-77d7-4ca5-91e2-75eb80578871",
-      "firstName": "Niaa",
-      "lastName": "Tania",
-      "username": "niaa",
-      "email": "salomon00000001@gmail.com",
-      "password": "$2a$10$Gaz5dTx3Q7j5cRuNED5NO.6X1p8J4x/1CREkvk5x5ZYRbW18r/go.",
-      "verified": false,
-      "createdAt": "2025-06-27T12:55:45.953Z"
-    }
-  }
-]
+[]
