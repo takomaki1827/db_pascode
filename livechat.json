@@ -5,5 +5,12 @@
     "text": "Hallo",
     "timestamp": "2025-06-27T19:53:58.235+07:00",
     "replyToId": null
+  },
+  {
+    "id": "acf62053-4963-4daf-9798-e04720a622e7",
+    "username": "niaa",
+    "text": "Halo juga",
+    "timestamp": "2025-06-27T19:56:23.744+07:00",
+    "replyToId": "e88c8632-59c6-4c63-9d3d-792f816c5fe9"
   }
 ]
