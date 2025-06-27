@@ -8,5 +8,15 @@
     "password": "$2a$10$kZaTqtoNbLTjtKLhXU1Sqe4ZOC4BRwV801cUqubgNvux9yQFRgfmC",
     "verified": false,
     "createdAt": "2025-06-27T06:43:48.966Z"
+  },
+  {
+    "id": "813c58a5-38b6-4b09-89d0-a6b450723314",
+    "firstName": "salomon",
+    "lastName": "store",
+    "username": "salomon",
+    "email": "mikuofc70@gmail.com",
+    "password": "$2a$10$iS1dSYGwc68SYHjLcWW4Zuxh2AOg5PJ5qBT.3m1de3g1fO/aL9LGK",
+    "verified": false,
+    "createdAt": "2025-06-27T06:46:48.883Z"
   }
 ]
