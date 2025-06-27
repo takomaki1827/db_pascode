@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "8c30f2c3-b471-49d4-a10d-3810c912734a",
+    "email": "ryomakanemi4@gmail.com",
+    "otp": "614346",
+    "expiresAt": 1751007228966,
+    "userData": {
+      "id": "02fdd3af-de98-4b0c-a051-43d383c8932b",
+      "firstName": "ren",
+      "lastName": "collin",
+      "username": "ren",
+      "email": "ryomakanemi4@gmail.com",
+      "password": "$2a$10$kZaTqtoNbLTjtKLhXU1Sqe4ZOC4BRwV801cUqubgNvux9yQFRgfmC",
+      "verified": false,
+      "createdAt": "2025-06-27T06:43:48.966Z"
+    }
+  }
+]
