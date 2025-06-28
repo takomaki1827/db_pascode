@@ -1,1 +1,31 @@
-[]
+[
+  {
+    "sessionId": "08106709-5d7f-43ad-b4de-56a86d630d5b",
+    "userId": "4cf448f3-fa99-4880-aa2f-3568c3818520",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjRjZjQ0OGYzLWZhOTktNDg4MC1hYTJmLTM1NjhjMzgxODUyMCIsInVzZXJuYW1lIjoicmVuY29sbGlucyIsInJvbGUiOiJvd25lciIsImlhdCI6MTc1MTExMTEzNywiZXhwIjoxNzUzNzAzMTM3fQ.gwFGCwFtvVdicD9aQ7z--ZxHDMJtlWpRAWZNHgMpqWQ",
+    "ipAddress": "::1",
+    "userAgent": {
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36",
+      "browser": {
+        "name": "Mobile Chrome",
+        "version": "137.0.0.0",
+        "major": "137"
+      },
+      "cpu": {},
+      "device": {
+        "type": "mobile",
+        "model": "K"
+      },
+      "engine": {
+        "name": "Blink",
+        "version": "137.0.0.0"
+      },
+      "os": {
+        "name": "Android",
+        "version": "10"
+      }
+    },
+    "location": "Faoug, Switzerland",
+    "loginTimestamp": "2025-06-28T11:45:37.261Z"
+  }
+]
