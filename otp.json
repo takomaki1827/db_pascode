@@ -52,5 +52,23 @@
       "suspended": false,
       "createdAt": "2025-06-28T12:38:39.179Z"
     }
+  },
+  {
+    "id": "06a09c2f-b357-4153-84ed-a95883b1eb28",
+    "email": "mikuofc70@gmail.com",
+    "otp": "918780",
+    "expiresAt": 1751115507035,
+    "userData": {
+      "id": "5c6746f1-0ab7-4508-9122-28146043a6fd",
+      "firstName": "niaa",
+      "lastName": "tania",
+      "username": "niaa",
+      "email": "mikuofc70@gmail.com",
+      "password": "$2a$10$dW8RuukhNZqCn/7T2.TBJOp5ZeqS2MWi0xcy5LfsC6s.vSXmWKOVy",
+      "verified": false,
+      "role": "user",
+      "suspended": false,
+      "createdAt": "2025-06-28T12:48:27.035Z"
+    }
   }
 ]
