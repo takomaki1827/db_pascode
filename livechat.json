@@ -38,7 +38,13 @@
     "username": "niaa",
     "text": "Hiia",
     "timestamp": "2025-06-27T19:57:06.304+07:00",
-    "replyToId": "5148727e-955a-4586-96b0-3ec5a743a08f"
+    "replyToId": "5148727e-955a-4586-96b0-3ec5a743a08f",
+    "reactions": [
+      {
+        "emoji": "😢",
+        "user": "ren"
+      }
+    ]
   },
   {
     "id": "2d5728a7-76d1-4e85-9f9e-15bcb32f44a9",
