@@ -106,7 +106,12 @@
     "text": "@renn bagusin reply nya 🤬",
     "timestamp": "2025-06-28T08:45:56.174+07:00",
     "replyToId": null,
-    "reactions": [],
+    "reactions": [
+      {
+        "emoji": "😢",
+        "user": "ren"
+      }
+    ],
     "edited": false
   }
 ]
