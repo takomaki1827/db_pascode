@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "01310c99-02ce-47af-b2c7-ce180f60e056",
+    "firstName": "ren",
+    "lastName": "collins",
+    "username": "rencollins",
+    "email": "ryomakanemi4@gmail.com",
+    "password": "$2a$10$XCJsZFG7kacgx/etd8Onl.Ilj3HbzV7.vuM9FB8NnsDlpEFtpYYtW",
+    "verified": true,
+    "role": "owner",
+    "createdAt": "2025-06-28T10:59:00.743Z"
+  }
+]
