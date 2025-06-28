@@ -19,7 +19,7 @@
     "password": "$2a$10$GA4M5VJRK6gDiQsAZh8C0Os4kKu8/vSZ5uedkIcXTEi7jVZVcxg96",
     "verified": true,
     "role": "user",
-    "suspended": false,
+    "suspended": true,
     "createdAt": "2025-06-28T12:51:58.242Z"
   }
 ]
