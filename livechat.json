@@ -78,7 +78,12 @@
     "text": "Gpp",
     "timestamp": "2025-06-28T08:36:37.942+07:00",
     "replyToId": null,
-    "reactions": [],
+    "reactions": [
+      {
+        "emoji": "❤️",
+        "user": "ren"
+      }
+    ],
     "edited": true
   },
   {
