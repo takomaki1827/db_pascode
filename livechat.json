@@ -235,7 +235,12 @@
     "text": "G",
     "timestamp": "2025-06-28T16:52:57.234+07:00",
     "replyToId": null,
-    "reactions": [],
+    "reactions": [
+      {
+        "emoji": "🙏",
+        "user": "ren"
+      }
+    ],
     "edited": false
   },
   {
