@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": 1,
+    "reporterUsername": "ren",
+    "reportedUsername": "niaa",
+    "messageId": "579e92f9-7204-4330-9157-c06779fe27e9",
+    "messageText": "Hiia",
+    "timestamp": "2025-06-28T15:44:24.909+07:00",
+    "status": "pending"
+  }
+]
