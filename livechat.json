@@ -130,7 +130,12 @@
     "text": "https://brat.salomon.biz.id",
     "timestamp": "2025-06-28T10:52:05.203+07:00",
     "replyToId": null,
-    "reactions": [],
+    "reactions": [
+      {
+        "emoji": "😢",
+        "user": "ren"
+      }
+    ],
     "edited": false
   },
   {
