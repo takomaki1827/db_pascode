@@ -244,7 +244,12 @@
     "text": "Ajwnbshajqnsjaiqjnsbsb",
     "timestamp": "2025-06-28T16:53:45.521+07:00",
     "replyToId": "fe0cb252-33ce-40e7-9705-974fcf62572c",
-    "reactions": [],
+    "reactions": [
+      {
+        "emoji": "🙏",
+        "user": "ren"
+      }
+    ],
     "edited": false
   }
 ]
