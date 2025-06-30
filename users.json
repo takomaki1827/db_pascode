@@ -9,17 +9,5 @@
     "verified": true,
     "role": "owner",
     "createdAt": "2025-06-28T11:06:57.241Z"
-  },
-  {
-    "id": "79f80c52-577c-48b5-a8ac-4c44e279a5ad",
-    "firstName": "niaa",
-    "lastName": "tania",
-    "username": "niaa",
-    "email": "mikuofc70@gmail.com",
-    "password": "$2a$10$hdgA.hetsnclMQt.xiPXUu612S7Gv5Mu4.bQ155ERmx6/YEPozkX2",
-    "verified": true,
-    "role": "user",
-    "suspended": true,
-    "createdAt": "2025-06-30T03:11:32.382Z"
   }
 ]
