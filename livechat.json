@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "a3e1e6d7-bbb1-430e-b675-aac063a2dbe6",
+    "username": "rencollins",
+    "text": "Hallo",
+    "timestamp": "2025-07-01T18:48:48.547+07:00",
+    "replyToId": null,
+    "reactions": [],
+    "edited": false
+  }
+]
