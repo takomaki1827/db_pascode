@@ -60,7 +60,12 @@
     "text": "Tes",
     "timestamp": "2025-07-02T06:24:56.092+07:00",
     "replyToId": null,
-    "reactions": [],
+    "reactions": [
+      {
+        "emoji": "😢",
+        "user": "rencollins"
+      }
+    ],
     "edited": false
   }
 ]
