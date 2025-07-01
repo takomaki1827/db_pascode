@@ -5,7 +5,12 @@
     "text": "Hallo",
     "timestamp": "2025-07-01T18:48:48.547+07:00",
     "replyToId": null,
-    "reactions": [],
+    "reactions": [
+      {
+        "emoji": "🙏",
+        "user": "rencollins"
+      }
+    ],
     "edited": false
   }
 ]
