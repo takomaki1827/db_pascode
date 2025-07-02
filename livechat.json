@@ -97,7 +97,12 @@
     "text": "Apa ini ?",
     "timestamp": "2025-07-02T07:30:08.636+07:00",
     "replyToId": "b295293c-0c54-465c-a116-ff5974f584d6",
-    "reactions": [],
+    "reactions": [
+      {
+        "emoji": "❤️",
+        "user": "rencollins"
+      }
+    ],
     "edited": false
   },
   {
