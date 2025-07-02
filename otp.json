@@ -16,5 +16,23 @@
       "suspended": false,
       "createdAt": "2025-07-02T01:08:08.009Z"
     }
+  },
+  {
+    "id": "560efb47-bc1e-42d4-b00b-6199496abc3c",
+    "email": "nama@gmail.com",
+    "otp": "826499",
+    "expiresAt": 1751419863359,
+    "userData": {
+      "id": "782d2513-87be-4792-a52f-2e55927b6a46",
+      "firstName": "Asep",
+      "lastName": "Sigma",
+      "username": "Asep",
+      "email": "nama@gmail.com",
+      "password": "$2a$10$tEHbfnnHeayB/69Yu2Hlr.QyYeYkDLWyQJFM2IK76tZ2lBHN1Lo8G",
+      "verified": false,
+      "role": "user",
+      "suspended": false,
+      "createdAt": "2025-07-02T01:21:03.359Z"
+    }
   }
 ]
