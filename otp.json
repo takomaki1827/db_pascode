@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": "d3279d6f-b8a6-4e17-80fc-546fc9f3461b",
+    "email": "mikuofc70@gmail.com",
+    "otp": "727222",
+    "expiresAt": 1751416644053,
+    "userData": {
+      "id": "4fb7b15c-8e7c-4c63-8011-015c8d6885bd",
+      "firstName": "niaa",
+      "lastName": "tania",
+      "username": "niaa",
+      "email": "mikuofc70@gmail.com",
+      "password": "$2a$10$haPtT9h6xuqhnvJLp/7ywOz0CRGvwxTJg2Xd40Xs7vG/t4pNcVNtK",
+      "verified": false,
+      "role": "user",
+      "suspended": false,
+      "createdAt": "2025-07-02T00:27:24.053Z"
+    }
+  }
+]
