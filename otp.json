@@ -34,5 +34,23 @@
       "suspended": false,
       "createdAt": "2025-07-02T01:21:03.359Z"
     }
+  },
+  {
+    "id": "fc9bcc98-2f17-41e6-9f9e-a0bda8d8f1a6",
+    "email": "kasepgp@gmail.com",
+    "otp": "805645",
+    "expiresAt": 1751419949027,
+    "userData": {
+      "id": "a52bbd63-146a-408c-ae12-6748b543475c",
+      "firstName": "sep",
+      "lastName": "asep",
+      "username": "kasep",
+      "email": "kasepgp@gmail.com",
+      "password": "$2a$10$HM/I37UVmiS27IsQVqJqx.VmSbXOjcjApwy/7PIqh90yndkwVdRA2",
+      "verified": false,
+      "role": "user",
+      "suspended": false,
+      "createdAt": "2025-07-02T01:22:29.027Z"
+    }
   }
 ]
