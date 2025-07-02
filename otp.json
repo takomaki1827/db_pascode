@@ -70,5 +70,23 @@
       "suspended": false,
       "createdAt": "2025-07-02T01:51:04.286Z"
     }
+  },
+  {
+    "id": "9e5174f3-d267-4452-80e9-62ea0b61e8b4",
+    "email": "sigma@gmail.com",
+    "otp": "273537",
+    "expiresAt": 1751423076573,
+    "userData": {
+      "id": "3a1fa77a-9f41-4ad1-a0c8-4da62bbf1d81",
+      "firstName": "sigma",
+      "lastName": "boys",
+      "username": "sigma",
+      "email": "sigma@gmail.com",
+      "password": "$2a$10$TokFcMY4d8kRtdY/3sz3BO3HG06ch2hmX4KqiRm1mmd8xn7BI1dMq",
+      "verified": false,
+      "role": "user",
+      "suspended": false,
+      "createdAt": "2025-07-02T02:14:36.573Z"
+    }
   }
 ]
