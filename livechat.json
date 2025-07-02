@@ -79,5 +79,14 @@
     "replyToId": null,
     "reactions": [],
     "edited": false
+  },
+  {
+    "id": "10ceb869-e14a-4d48-a510-21d4d20c7f1c",
+    "username": "rencollins",
+    "text": "Selamat pagi",
+    "timestamp": "2025-07-03T05:50:28.644+07:00",
+    "replyToId": null,
+    "reactions": [],
+    "edited": false
   }
 ]
