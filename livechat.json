@@ -86,7 +86,12 @@
     "text": "Selamat oagi",
     "timestamp": "2025-07-03T05:50:28.644+07:00",
     "replyToId": null,
-    "reactions": [],
+    "reactions": [
+      {
+        "emoji": "😂",
+        "user": "rencollins"
+      }
+    ],
     "edited": true
   }
 ]
