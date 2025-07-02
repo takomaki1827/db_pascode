@@ -52,5 +52,23 @@
       "suspended": false,
       "createdAt": "2025-07-02T01:22:29.027Z"
     }
+  },
+  {
+    "id": "0ed68641-7e40-408f-b18d-aaf1d4b31da2",
+    "email": "asep@gmail.com",
+    "otp": "398436",
+    "expiresAt": 1751421664285,
+    "userData": {
+      "id": "c689a639-aabc-4448-8eda-988a17ed0bdf",
+      "firstName": "tes",
+      "lastName": "Asep",
+      "username": "Asep",
+      "email": "asep@gmail.com",
+      "password": "$2a$10$0RuA2ejZJGIs5PrHlm2If.Lt1fKrdT3Rl8uFi8cJB7sy9Q0Of2WRC",
+      "verified": false,
+      "role": "user",
+      "suspended": false,
+      "createdAt": "2025-07-02T01:51:04.286Z"
+    }
   }
 ]
