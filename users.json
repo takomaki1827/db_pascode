@@ -20,7 +20,7 @@
     "password": "$2a$10$haPtT9h6xuqhnvJLp/7ywOz0CRGvwxTJg2Xd40Xs7vG/t4pNcVNtK",
     "verified": true,
     "role": "user",
-    "suspended": true,
+    "suspended": false,
     "createdAt": "2025-07-02T00:27:24.053Z"
   }
 ]
